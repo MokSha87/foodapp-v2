@@ -1,0 +1,1 @@
+console.log('FoodApp v2 backend ready');
